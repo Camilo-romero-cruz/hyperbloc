@@ -1,5 +1,6 @@
 /* estilos.css */
 body {
+
     font-family: 'Courier', sans-serif;
     background-color: #f0f0f0;
     color: #333;
@@ -33,20 +34,10 @@ body {
     line-height: 1.6em;
     margin-bottom: 20px;
     color: #666;
-    text-align: left;
-    padding: 0 15px;
-}
+
 
 #post p:last-child {
     margin-bottom: 0;
     font-style: italic;
     color: #999;
-}
-
-#post p:nth-child(3) {
-    font-weight: bold;
-    background-color: #ffeb3b;
-    padding: 15px;
-    border-radius: 8px;
-    color: #444;
 }
