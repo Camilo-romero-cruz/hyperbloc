@@ -1,13 +1,13 @@
 
-# Título del Proyecto
+# 🌟 Título del Proyecto
 
 Una breve descripción de lo que hace este proyecto y para quién está dirigido.
 
-## Descripción
+## 📖 Descripción
 
 Este proyecto incluye una publicación de blog con estilos e imágenes asociados. El contenido está controlado por versión usando Git.
 
-## Instalación
+## ⚙️ Instalación
 
 Para obtener una copia local y ponerla en funcionamiento, sigue estos simples pasos:
 
@@ -18,7 +18,7 @@ Para obtener una copia local y ponerla en funcionamiento, sigue estos simples pa
 
 2. Abre el archivo `blogpost.html` en tu navegador para ver la publicación del blog.
 
-## Uso
+## 🚀 Uso
 
 Explica cómo utilizar este proyecto. Por ejemplo:
 
@@ -26,9 +26,10 @@ Explica cómo utilizar este proyecto. Por ejemplo:
 2. Abre `blogpost.html` en tu navegador web para ver la publicación del blog
 3. Modifica el archivo `estilos.css` para cambiar los estilos según sea necesario
 
-## Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
-```
+<pre>
+<code>
 proyecto1/
 │
 ├── blogpost.html
@@ -44,9 +45,10 @@ proyecto1/
     ├── logs/
     ├── objects/
     └── refs/
-```
+</code>
+</pre>
 
-## Contribuyendo
+## 🤝 Contribuyendo
 
 Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. **Cualquier contribución que hagas será muy apreciada**.
 
@@ -56,11 +58,11 @@ Las contribuciones son lo que hace que la comunidad de código abierto sea un lu
 4. Empuja a la rama (`git push origin feature/CaracteristicaAsombrosa`)
 5. Abre un Pull Request
 
-## Licencia
+## 📜 Licencia
 
 Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
-## Contacto
+## 📬 Contacto
 
 Tu Nombre - [@tu_usuario](https://twitter.com/tu_usuario) - tu_email@example.com
 
